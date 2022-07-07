@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Acerca de Mi:
 Soy Caterina Vivero<br>Vivo en la comuna de Hualpén en la región del Bío bío.<br>Mi profesión es Bióloga y Desarrolladora Frontend.<br>Mis estudios los realice en la Universidad de Concepción y Bootcamp Frontend.<br>Estoy comenzando en el mundo de las TI, sin embargo me interesan tanto que he desarrollado varios proyectos donde muestro mi avance.<br>Me pueden contactar al correo cvivero4@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 RRSS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caterina-vivero-troncoso-90a61b21/) 
 
 # 💻 Tech Stack:
